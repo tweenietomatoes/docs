@@ -311,7 +311,7 @@ possible keys by default, all of which are optional::
 
 Example::
 
-    $sampleText = 'I packed my bag and in it I put a PSP, a PS3, a TV, ' .
+    $sampleText = 'I packed my bag and in it I put a Nintendo Switch, a PS4, a TV, ' .
         'a C# program that can divide by zero, death metal t-shirts'
 
     // Called as TextHelper
